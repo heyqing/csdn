@@ -9,3 +9,10 @@ https://blog.csdn.net/heyiqingsong/article/details/140228647
 Linux对Docker的下载管理
 
 https://blog.csdn.net/heyiqingsong/article/details/140233120
+
+# README-Sql
+
+针对关系型数据库的详细说明，Sql server期末复习必备
+
+https://blog.csdn.net/heyiqingsong/article/details/140251201
+
