@@ -30,3 +30,8 @@ markdown对流程图的绘制
 
 https://blog.csdn.net/heyiqingsong/article/details/140300813
 
+# README-Qrcode
+
+二维码的生成
+
+https://blog.csdn.net/heyiqingsong/article/details/140504619
